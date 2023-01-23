@@ -1,1 +1,1 @@
-# lab_2_geo-tagged_collection
+For lab 2, the topic that interested me the most, and the one that I did my search on was Climate Change. 
