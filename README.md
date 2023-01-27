@@ -1,3 +1,8 @@
+Truong Le
+Geography 458
+January 23, 2023
+
+
 For lab 2, the topic that interested me the most, and the one that I did my search on was Climate Change. For the search, the research was conducted for the date of January 17, 2023, with a radius of 15.8 miles. The locations that the data was collected for was for Seattle, Washington(Figure 1), Tacoma, Washington(Figure 2), and Los Angeles, California (Figure 3). I chose to collect data of [Seattle, Washington] because the location is known to have a lot of environmental activists, always having awareness for the environment and climate change. One example is the Climate Pledge arena, the arena that is used to play basketball. The second location that I chose was [Tacoma, Washington]. The reason for this is because it is my hometown, making me want to learn more about climate change activities around the area. Another reason is because I wanted to compare if there are any differences in the tweets being made between Seattle and Tacoma, despite them being fairly close to each other. The last location that I chose was [Los Angeles, California]. This is because for the last location, I would like to look at a populated location, and one that is farther away from the other two location. With this, I am able to check whether distances, and different states change people's perception and how they tweet about climate change. 
 
 With the data collected from the three locations, I was able to create three seperate word clouds. I found that the similarties between the three is that since it is about climate change, there were a lot of tweets that mentioned climate change. Another similarity is that global is mentioned a lot. I believe that the reason for this is because climate change is a global issue, meaning that it takes a lot of individuals to cause the issue and spread it, being cause from individuals all around the world. This also means the the other way as well, that climate change will effect individuals all around the world. 
@@ -18,13 +23,13 @@ Figure 3:
 <img title="Los Angeles, California" alt="" src="/img/Los Angeles.png">
 
 Figure 4:
-<img title="Seattle, Washington Word Cloud" alt="" src="/img/Word Art (1).png">
+<img title="Seattle, Washington Word Cloud" alt="" src="/img/Seattle Word Art.png">
 
 Figure 5:
-<img title="Tacoma, Washington Word Cloud" alt="" src="/img/Word Art (2).png">
+<img title="Tacoma, Washington Word Cloud" alt="" src="/img/Tacoma Word Art.png">
 
 Figure 6:
-<img title="Los Angeles, California Word Cloud" alt="" src="/img/Word Art (3).png">
+<img title="Los Angeles, California Word Cloud" alt="" src="/img/Los Angeles Word Art.png">
 
 [Seattle, Washington]: https://drive.google.com/file/d/19DbDOfY1O-6UKwsml18cK0pn-0gCgY82/view?usp=share_link
 [Tacoma, Washington]: https://drive.google.com/file/d/1K2QWXWEV62lIxqOfHS7niL3szpkQcyTa/view?usp=sharing
